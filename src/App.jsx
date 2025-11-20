@@ -7,8 +7,8 @@ import MovieDetailsModel from "./components/MovieDetailsModel";
 import Navbar from "./components/Navbar";
 
 import { Routes, Route } from "react-router-dom";
-import Login from "./pages/Login";
-import About from "./pages/About";
+import Login from "./pages/Login.jsx";
+import About from "./pages/About.jsx";
 
 
 

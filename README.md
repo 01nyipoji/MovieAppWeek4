@@ -52,6 +52,7 @@ MovieApp/
 │   │   ├── MovieDetailsModel.jsx
 │   │   ├── SearchBar.jsx
 │   │   └── Spinner.jsx
+|   |
 │   │
 │   ├── App.jsx                
 │   ├── index.css              

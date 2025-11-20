@@ -2,7 +2,7 @@ function About() {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100 p-6">
       <div className="bg-white p-8 rounded-lg shadow-md max-w-2xl text-center">
-        <h1 className="text-3xl font-bold mb-6">About Movie App</h1>
+        <h1 className="text-3xl font-bold mb-6">About</h1>
 
         <p className="text-gray-700 mb-4">
           Nyipoji's Movie Gallery is a simple and fun web application that lets you browse

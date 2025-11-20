@@ -5,6 +5,7 @@ import ErrorMessage from "./components/ErrorMessage";
 import MovieCard from "./components/MovieCard";
 import MovieDetailsModel from "./components/MovieDetailsModel";
 import Navbar from "./components/Navbar";
+
 import { Routes, Route } from "react-router-dom";
 import Login from "./pages/Login";
 import About from "./pages/About";
